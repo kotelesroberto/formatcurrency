@@ -1,0 +1,16 @@
+{
+
+	"currency":{
+
+"symbol":"kr.",
+"html":"kr.",
+"thousand":" ",
+"decimal":",",
+"before":false,
+"space":true,
+"pence":false,
+
+		"xxx":"xxx"
+	}
+	
+}

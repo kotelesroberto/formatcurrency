@@ -1,0 +1,16 @@
+{
+
+	"currency":{
+
+		"symbol": "£",
+		"html": "&pound;",
+		"thousand": ",",
+		"decimal": ".",
+		"decimalCount": 2, // how many decimal placeholders after
+		"before": true,
+		"space": false,
+		"pence": true
+		
+	}
+	
+}

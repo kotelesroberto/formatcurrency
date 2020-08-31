@@ -1,0 +1,15 @@
+{
+
+	"currency":{
+
+"symbol":"€",
+"html":"&euro;",
+"thousand":".",
+"decimal":",",
+"before":false,
+"space":true,
+
+		"xxx":"xxx"
+	}
+	
+}
